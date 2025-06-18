@@ -142,5 +142,5 @@ def main():
     else:
         print("No addresses found with balances greater than the minimum threshold.")
 
-if __name__ == "_main_":
+if _name_ == "_main_":
     main()
